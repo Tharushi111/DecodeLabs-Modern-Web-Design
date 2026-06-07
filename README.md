@@ -9,7 +9,7 @@
 
 This is **Project 1** of my Full Stack Development internship at **DecodeLabs**. The task was to build a **fully responsive, modern frontend interface** following the **Mobile-First** approach with semantic HTML5, CSS3, and JavaScript.
 
-The website showcases a digital agency's brand, services, portfolio, testimonials, and contact form — all with smooth animations and a professional aesthetic aligned with **2025 UI/UX trends**.
+The website showcases a digital agency's brand, services, portfolio, testimonials, and contact form  all with smooth animations and a professional aesthetic aligned with **2025 UI/UX trends**.
 
 ---
 
