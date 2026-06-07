@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="images/logo-placeholder.png" alt="DecodeLabs Logo" width="120">
   <h1>DecodeLabs — Modern Digital Agency</h1>
   <p><strong>Internship Project 1 | Full Stack Development Track</strong></p>
   <p>
