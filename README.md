@@ -1,14 +1,6 @@
 <div align="center">
   <h1>DecodeLabs — Modern Digital Agency</h1>
-  <p><strong>Internship Project 1 | Full Stack Development Track</strong></p>
-  <p>
-    <a href="#-live-demo">Live Demo</a> •
-    <a href="#-features">Features</a> •
-    <a href="#-technologies">Tech Stack</a> •
-    <a href="#-project-structure">Structure</a> •
-    <a href="#-author">Author</a>
-  </p>
-  <br>
+  <p><strong>Internship Project 1 | Full Stack Development Project</strong></p>
 </div>
 
 ---
