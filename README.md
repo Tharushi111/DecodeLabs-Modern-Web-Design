@@ -101,13 +101,11 @@ The website showcases a digital agency's brand, services, portfolio, testimonial
 
 The website is deployed on **GitHub Pages**:
 
-🔗 **[View Live Demo](https://YOUR_USERNAME.github.io/DecodeLabs-Internship-Project1/)**
-
-*(Replace `YOUR_USERNAME` with your GitHub username after deployment)*
+🔗 **[View Live Demo]([(https://tharushi111.github.io/DecodeLabs-Modern-Web-Design/)]**
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 | Device | Breakpoint | Features |
 |--------|------------|----------|
@@ -117,7 +115,7 @@ The website is deployed on **GitHub Pages**:
 
 ---
 
-## 🎨 Color Palette (2025 Aesthetic)
+## Color Palette (2025 Aesthetic)
 
 | Color Name | Hex Code | Usage |
 |------------|----------|-------|
