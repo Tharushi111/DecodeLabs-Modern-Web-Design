@@ -1,8 +1,4 @@
-/* =============================================
-   DECODELABS — main.js
-============================================= */
-
-// ─── Custom Cursor ───────────────────────────
+//Custom Cursor
 const cursor = document.getElementById('cursor');
 const follower = document.getElementById('cursorFollower');
 let mouseX = 0, mouseY = 0;
@@ -35,7 +31,7 @@ document.querySelectorAll('a, button, .service-card, .work-card').forEach(el => 
 });
 
 
-// ─── Navbar Scroll ────────────────────────────
+//Navbar Scroll
 const navbar = document.getElementById('navbar');
 
 window.addEventListener('scroll', () => {
@@ -43,7 +39,7 @@ window.addEventListener('scroll', () => {
 });
 
 
-// ─── Mobile Menu ─────────────────────────────
+// Mobile Menu
 const menuBtn = document.getElementById('menuBtn');
 const navLinks = document.getElementById('navLinks');
 
@@ -65,7 +61,7 @@ navLinks.querySelectorAll('a').forEach(link => {
 
 
 
-// ─── Simple AOS (Animate on Scroll) ──────────
+//Simple AOS (Animate on Scroll)
 function initAOS() {
     const items = document.querySelectorAll('[data-aos]');
 
@@ -88,7 +84,7 @@ function initAOS() {
 initAOS();
 
 
-// ─── Counter Animation ────────────────────────
+//Counter Animation
 const counters = document.querySelectorAll('.counter');
 
 const counterObserver = new IntersectionObserver(entries => {
@@ -116,7 +112,7 @@ const counterObserver = new IntersectionObserver(entries => {
 counters.forEach(el => counterObserver.observe(el));
 
 
-// ─── Smooth Scroll ────────────────────────────
+//Smooth Scroll
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', e => {
         const href = anchor.getAttribute('href');
@@ -131,7 +127,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 
-// ─── Active Nav Link Highlight ────────────────
+//Active Nav Link Highlight
 const sections = document.querySelectorAll('section[id]');
 
 window.addEventListener('scroll', () => {
@@ -149,7 +145,7 @@ window.addEventListener('scroll', () => {
 });
 
 
-// ─── Contact Form ─────────────────────────────
+//Contact Form
 const contactForm = document.getElementById('contactForm');
 
 if (contactForm) {
@@ -181,7 +177,7 @@ if (contactForm) {
 }
 
 
-// ─── Marquee Pause on Hover ───────────────────
+//Marquee Pause on Hover
 const track = document.querySelector('.marquee-track');
 if (track) {
     track.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
